@@ -118,7 +118,7 @@ function App() {
                 </select>
               </section>
               <input 
-                type='text'
+                type='number'
                 className='input'
                 placeholder='Enter your value'
                 value={amountFrom.amountFrom}
@@ -159,7 +159,7 @@ function App() {
                 </select>
               </section>
               <input 
-                type='text'
+                type='number'
                 className='input' 
                 placeholder='Enter your value'
                 value={amountTo.amountTo}
